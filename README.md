@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GordonWillingham
-- 👀 I’m interested in using Data for problem solving
-- 🌱 I’m currently learning Data Science and Business Analytics
-- 💞️ I’m looking to collaborate on Conversational AI projects
+- 👀 I’m a Data Management Consultant, helping my clients transform and optimize their data environments.
+- 🌱 I've had the pleasure to work with leading companies like Wells Fargo and IBM
+- 💞️ I’m looking to collaborate and Network with Data, AI, & Machine Learning professionals
 - 📫 How to reach me, you can email me directly at Willinghamgordon@gmail.com
 
 <!---
